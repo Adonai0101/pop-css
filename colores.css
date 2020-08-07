@@ -1,0 +1,145 @@
+:root{
+    --pylon:#00a8ff;
+    --vanadyl:#0097e6;
+    --flor:#e84118;
+    --peligro:#c23616;
+    --bigaro:#9c88ff;
+    --morado-mate:#8c7ae6;
+    --lince:#f5f6fa;
+    --pista:#dcdde1;
+    --advertencia:#fbc531;
+    --oro:#e1b12c;
+    --soda:#7f8fa6;
+    --cadena:#718093;
+    --hecho:#4cd137;
+    --verde-sk:#44bd32;
+    --marino:#273c75;
+    --void:#192a56;
+    --seabrook:#487eb0;
+    --naval:#40739e;
+    --noche:#353b48;
+    --electro:#2f3640;
+}
+
+
+
+/*Colores de Fondo*/
+.bg-pylon{
+    background-color: var(--pylon);
+}
+.bg-vanadyl{
+    background-color: var(--vanadyl);
+}
+.bg-flor{
+    background-color: var(--flor);
+}
+.bg-peligro{
+    background-color: var(--peligro);
+}
+.bg-bigaro{
+    background-color: var(--bigaro);
+}
+.bg-morado-mate{
+    background-color: var(--morado-mate);
+}
+.bg-lince{
+    background-color: var(--lince);
+}
+.bg-pista{
+    background-color: var(--pista);
+}
+.bg-advertencia{
+    background-color: var(--advertencia);
+}
+.bg-oro{
+    background-color: var(--oro);
+}
+.bg-soda{
+    background-color: var(--soda);
+}
+.bg-cadena{
+    background-color: var(--cadena);
+}
+.bg-hecho{
+    background-color: var(--hecho);
+}
+.bg-marino{
+    background-color: var(--marino);
+}
+.bg-void{
+    background-color: var(--void)
+}
+.bg-seabrook{
+    background-color: var(--seabrook)
+}
+
+.bg-naval{
+    background-color: var(--naval);
+}
+.bg-noche{
+    background-color: var(--noche);
+}
+.bg-electro{
+   background-color: var(--electro);
+}
+
+/*colores de letra*/
+.text-pylon{
+    color: var(--pylon);
+}
+.text-vanadyl{
+    color: var(--vanadyl);
+}
+.text-flor{
+    color: var(--flor);
+}
+.text-peligro{
+    color: var(--peligro);
+}
+.text-bigaro{
+    color: var(--bigaro);
+}
+.text-morado-mate{
+    color: var(--morado-mate);
+}
+.text-lince{
+    color: var(--lince);
+}
+.text-pista{
+    color: var(--pista);
+}
+.text-advertencia{
+    color: var(--advertencia);
+}
+.text-oro{
+    color: var(--oro);
+}
+.text-soda{
+    color: var(--soda);
+}
+.text-cadena{
+    color: var(--cadena);
+}
+.text-hecho{
+    color: var(--hecho);
+}
+.text-marino{
+    color: var(--marino);
+}
+.text-void{
+    color: var(--void)
+}
+.text-seabrook{
+    color: var(--seabrook)
+}
+
+.text-naval{
+    color: var(--naval);
+}
+.text-noche{
+    color: var(--noche);
+}
+.text-electro{
+   color: var(--electro);
+   
+}

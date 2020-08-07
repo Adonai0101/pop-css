@@ -1,0 +1,58 @@
+/*Simple barra de navegacion*/
+
+.navbar{
+    padding: 1em;
+    margin-bottom: .5em;
+}
+.navbar-control{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.botonMenu{
+    border: none;
+    padding: .5em;
+    font-size: 1.2em;
+}
+
+.menu1{
+    display: none;
+}
+
+.menu1 li{
+    margin-bottom: .3em;
+    border-bottom: solid 1px var(--cadena);
+}
+
+
+@media (min-width: 700px) {
+
+    .botonMenu{
+        display: none;
+    }
+    .navbar{
+        padding: 1em;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .menu1{
+        display: flex;
+    }
+    .menu1 li{
+        border: none;
+    }
+    .menu1 li a{
+        margin-right: 1em;
+    }
+}
+
+
+.on{
+    display: block;
+}
+.off{
+    display: none;
+}
