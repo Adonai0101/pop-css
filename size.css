@@ -1,0 +1,120 @@
+:root{
+    --xs: .2em;
+    --s:  .5em;
+    --m:  .8em;
+    --l:   1em;
+    --xl:  1.5em; 
+}
+
+/*pading variantes t,b,r,l (top,bottom,right,left)*/
+
+
+/*padin muy pequeño*/
+.pd-xs{
+    padding: var(--xs);
+}
+
+.pdt-xs{
+    padding-top: var(--xs);
+}
+
+.pdb-xs{
+    padding-bottom: var(--xs);
+}
+
+.pdl-xs{
+    padding-left: var(--xs);
+}
+
+.pdr-xs{
+    padding-right: var(--xs);
+}
+
+
+/*padin pequeño*/
+.pd-s{
+    padding: var(--s);
+}
+
+.pdt-s{
+    padding-top: var(--s);
+}
+
+.pdb-s{
+    padding-bottom: var(--s);
+}
+
+.pdl-s{
+    padding-left: var(--s);
+}
+
+.pdr-s{
+    padding-right: var(--s);
+}
+
+/*pd medio*/
+
+.pd-m{
+    padding: var(--m);
+}
+
+.pdt-m{
+    padding-top: var(--m);
+}
+
+.pdb-m{
+    padding-bottom: var(--m);
+}
+
+.pdl-m{
+    padding-left: var(--m);
+}
+
+.pdr-m{
+    padding-right: var(--m);
+}
+
+/*pd grande*/
+
+.pd-l{
+    padding: var(--l);
+}
+
+.pdt-l{
+    padding-top: var(--l);
+}
+
+.pdb-l{
+    padding-bottom: var(--l);
+}
+
+.pdl-l{
+    padding-left: var(--l);
+}
+
+.pdr-l{
+    padding-right: var(--l);
+}
+
+
+/*pd x grande*/
+
+.pd-xl{
+    padding: var(--xl);
+}
+
+.pdt-xl{
+    padding-top: var(--xl);
+}
+
+.pdb-xl{
+    padding-bottom: var(--xl);
+}
+
+.pdl-xl{
+    padding-left: var(--xl);
+}
+
+.pdr-xl{
+    padding-right: var(--xl);
+}

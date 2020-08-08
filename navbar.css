@@ -20,6 +20,9 @@
 .menu1{
     display: none;
 }
+.on{
+    display: block;
+}
 
 .menu1 li{
     margin-bottom: .3em;
@@ -50,9 +53,7 @@
 }
 
 
-.on{
-    display: block;
-}
+
 .off{
     display: none;
 }
