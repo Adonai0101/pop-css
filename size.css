@@ -118,3 +118,93 @@
 .pdr-xl{
     padding-right: var(--xl);
 }
+
+/* ------------ margenes-------------*/
+
+/*margenes xs*/
+.mg-xs{
+    margin: var(--xs);
+}
+.mgt-xs{
+    margin-top: var(--xs);
+}
+.mgb-xs{
+    margin-bottom: var(--xs);
+}
+.mgl-xs{
+    margin-left: var(--xs);
+}
+.mgr-xs{
+    margin-right: var(--xs);
+}
+
+/*margenes s*/
+.mg-s{
+    margin: var(--s);
+}
+.mgt-s{
+    margin-top: var(--s);
+}
+.mgb-s{
+    margin-bottom: var(--s);
+}
+.mgl-s{
+    margin-left: var(--s);
+}
+.mgr-s{
+    margin-right: var(--s);
+}
+
+/*Margenes M*/
+
+.mg-m{
+    margin: var(--m);
+}
+.mgt-m{
+    margin-top: var(--m);
+}
+.mgb-m{
+    margin-bottom: var(--m);
+}
+.mgl-m{
+    margin-left: var(--m);
+}
+.mgr-m{
+    margin-right: var(--m);
+}
+
+/*Margenes L*/
+
+.mg-l{
+    margin: var(--l);
+}
+.mgt-l{
+    margin-top: var(--l);
+}
+.mgb-l{
+    margin-bottom: var(--l);
+}
+.mgl-l{
+    margin-left: var(--l);
+}
+.mgr-l{
+    margin-right: var(--l);
+}
+
+/*Margenes XL*/
+
+.mg-xl{
+    margin: var(--xl);
+}
+.mgt-xl{
+    margin-top: var(--xl);
+}
+.mgb-xl{
+    margin-bottom: var(--xl);
+}
+.mgl-xl{
+    margin-left: var(--xl);
+}
+.mgr-xl{
+    margin-right: var(--xl);
+}
