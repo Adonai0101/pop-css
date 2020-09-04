@@ -1,3 +1,3 @@
-document.getElementById('boton1').addEventListener("click",function(e){
-    document.getElementById('menu1').classList.toggle("on")
+document.querySelector('.navbar-toggle').addEventListener('click',function(e){
+    document.querySelector('.navbar-menu').classList.toggle('on')
 })

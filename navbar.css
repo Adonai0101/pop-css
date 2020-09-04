@@ -11,20 +11,20 @@
 }
 
 
-.botonMenu{
+.navbar-toggle{
     border: none;
     padding: .5em;
     font-size: 1.2em;
 }
 
-.menu1{
+.navbar-menu{
     display: none;
 }
 .on{
     display: block;
 }
 
-.menu1 li{
+.navbar-menu li{
     margin-bottom: .3em;
     border-bottom: solid 1px var(--cadena);
 }
@@ -32,7 +32,7 @@
 
 @media (min-width: 700px) {
 
-    .botonMenu{
+    .navbar-toggle{
         display: none;
     }
     .navbar{
@@ -41,13 +41,13 @@
         justify-content: space-between;
         align-items: center;
     }
-    .menu1{
+    .navbar-menu{
         display: flex;
     }
-    .menu1 li{
+    .navbar-menu li{
         border: none;
     }
-    .menu1 li a{
+    .navbar-menu li a{
         margin-right: 1em;
     }
 }
